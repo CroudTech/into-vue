@@ -1,0 +1,25 @@
+{
+  "name": "into-vue",
+  "version": "0.0.1",
+  "description": "Pass a method to a directive to run when a component is visible",
+  "main": "into-vue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrockReece/into-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "scroll",
+    "animate",
+    "greensock"
+  ],
+  "author": "Brock Reece",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrockReece/into-vue/issues"
+  },
+  "homepage": "https://github.com/BrockReece/into-vue#readme"
+}
