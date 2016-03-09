@@ -31,7 +31,7 @@ function checkAll() {
 })
 
 module.exports = {
-	install: function (Vue, options = {}) {
+	install: function (Vue) {
 		Vue.directive('into-vue', {
 			acceptStatement: true,
 			update: function(fn) {
